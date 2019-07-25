@@ -2,11 +2,11 @@
 
 Three models trained to label anonymized credit card transactions as fraudulent or genuine. Dataset from [Kaggle](https://www.kaggle.com/dalpozz/creditcardfraud). Project through [ML@B](https://ml.berkeley.edu).
 
-Problem: Fraudulent transaction detection
-Challenges: Imbalance data, time series transactional data
-Goal: Well performing model with low FN misclassification
-Algorithms: Neural networks, K-Means, Logistic Regression
-Concepts: PCA, Oversampling, hyperparameter tuning, Confusion matrix, Gaussian Noise
+* Problem: Fraudulent transaction detection
+* Challenges: Imbalance data, time series transactional data
+* Goal: Well performing model with low FN misclassification
+* Algorithms: Neural networks, K-Means, Logistic Regression
+* Concepts: PCA, Oversampling, hyperparameter tuning, Confusion matrix, Gaussian Noise
 
 
 
